@@ -1,1 +1,109 @@
 /* Write your CSS here! */
+/* Write your CSS here! */
+h1 {
+    color: black;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.one {
+    background: #FF1FC0;
+    background: -moz-radial-gradient(center, #FF1FC0 0%, #FF0307 50%, #FF0FBB 100%);
+    background: -webkit-radial-gradient(center, #FF1FC0 0%, #FF0307 50%, #FF0FBB 100%);
+    background: radial-gradient(ellipse at center, #FF1FC0 0%, #FF0307 50%, #FF0FBB 100%);
+}
+
+#page {
+    background: #FF1FC0;
+    background: -moz-radial-gradient(center, #FF1FC0 0%, #FF0307 50%, #FF0FBB 100%);
+    background: -webkit-radial-gradient(center, #FF1FC0 0%, #FF0307 50%, #FF0FBB 100%);
+    background: radial-gradient(ellipse at center, #FF1FC0 0%, #FF0307 50%, #FF0FBB 100%);
+    font-family: 'Comic Sans MS';
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    display: block;
+}
+
+#fonts {
+    font-family: 'Cambria Math','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,'Times New Roman', Times, serif;
+}
+
+header1 {
+    background-color: #F01;
+}
+
+#calc2 {
+    font-family: 'TI-Nspire Sans';
+}
+
+#calc4 {
+    font-family: TINspireKeysCX;
+}
+
+#calc5 {
+    font-family: TINspireKeysTouch;
+}
+
+#calc6 {
+    font-family: TINspireKeysChinese;
+}
+
+#calc3 {
+    font-family: TI-Nspire;
+}
+
+#web {
+    font-family: Webdings;
+}
+
+#wing1 {
+    font-family: Wingdings;
+}
+
+#wing2 {
+    font-family: 'Wingdings 2';
+}
+
+#wing3 {
+    font-family: 'Wingdings 3';
+}
+
+#calc {
+    font-family: TINspireKeys;
+}
+
+#three {
+    font-family: TI-Nspire;
+}
+
+#sgdfr {
+    font-family: 'Times New Roman', Times, serif;
+    background: #FF0F66;
+    background: -moz-linear-gradient(-45deg, #FF0F66 0%, #66FE0F 52%, #0F65FE 100%);
+    background: -webkit-linear-gradient(-45deg, #0ffe30 0%, #0ffea8 52%, #0fddfe 100%);
+    background: linear-gradient(135deg, #fe0fdd 0%, #fe300f 52%, #ff0f66 100%);
+}
+
+#p {
+    background: #FF0F66;
+    background: -moz-linear-gradient(-45deg, #FF0000 0%, #0000ff 52%, #ffff00 100%);
+    background: -webkit-linear-gradient(-45deg, #FF3F66 0%, #66FE2F 52%, #2F65FE 100%);
+    background: linear-gradient(135deg, #FFaF66 0%, #0000ff 52%, #fF6511 100%);
+}
